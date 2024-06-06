@@ -171,7 +171,7 @@
             background-color: #e9ecef;
             border-radius: 7px;
             box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-            width: calc(25% - 40px);
+            width: calc(33.33% - 40px);
             box-sizing: border-box;
             text-align: center;
         }
@@ -290,7 +290,6 @@
                 <h1>
                     <img src="images/10.png" alt="Logo" style="max-width: 90px;">
                     <img src="images/9.png" alt="Logo" style="max-width: 90px;">
-                    <img src="images/13.png" alt="Logo" style="max-width: 92px;">
                 </h1>
                 <form action="" method="post">
                     <div class="form-group">
@@ -377,10 +376,6 @@
                 <div class="sponsor">
                     <img src="images/12.png" alt="Sponsor 3">
                     <p>Celtic basketball</p>
-                </div>
-                <div class="sponsor">
-                    <img src="images/7.png" alt="Sponsor 4">
-                    <p>Lanks2Nd</p>
                 </div>
             </div>
         </div>
